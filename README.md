@@ -16,6 +16,11 @@ Here is the dataset used: https://www.kaggle.com/datasets/vjchoudhary7/customer-
 
 4.Add a Code cell above the given code in the ipynb file to mount your Google drive.
 
+# Code execution:
+
+Code Execution
+The code is inside the Customer_Segmentation.ipynb file. Do the above steps and then execute the code given . The Mall_Customers csv file is used here.
+
 # Knowledge Gained
 
 In this task, I learned how to apply the K-Means clustering algorithm to group customers based on their purchase history. I gained valuable insights into selecting the right features for clustering, determining the optimal number of clusters, and visualizing the results to better understand customer segments. This task also deepened my knowledge of unsupervised learning techniques in machine learning.
